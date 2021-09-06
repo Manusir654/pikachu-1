@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
  <p align="center">
-<a href="#"><img title="Manusir" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Manusir" src="https://img.shields.io/badge/MANUSIR-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Manusir654"><img title="Author" src="https://img.shields.io/badge/Author-Manusir654/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
